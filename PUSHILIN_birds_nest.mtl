@@ -8,4 +8,4 @@ Kd 0.8 0.8 0.8
 Ks 0.8 0.8 0.8
 d 1
 illum 2
-map_Kd PUSHILIN_birds_nest.png
+map_Kd https://wyz0606.github.io/TestOBJImporter/PUSHILIN_birds_nest.mtl
